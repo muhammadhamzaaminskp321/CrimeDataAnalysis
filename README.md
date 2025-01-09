@@ -7,7 +7,4 @@ Studied the performance of map, reduce, shuffle and sort, including execution ti
 ##Install
 
 This library has the java implementation crime data analysis
-  
-###Project Contributor
 
-* Dinesh Appavoo ([@DineshAppavoo](https://twitter.com/DineshAppavoo))
